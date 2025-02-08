@@ -216,8 +216,8 @@ async def start(client:Client, message):
         buttons = [[
                             InlineKeyboardButton('☆ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ☆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
                         ],[
-                            InlineKeyboardButton("TESTING ✅", url='https://t.me/@ll_Alexa_Owner_ll'),
-                            InlineKeyboardButton('QUIZ 🔥', url='https://t.me/SCIENCE_HINDI_QUIZ')
+                            InlineKeyboardButton("👻 тєѕтιηg..✅", url='https://t.me/@ll_Alexa_Owner_ll'),
+                            InlineKeyboardButton('🔮 🆀υιzι 🔥', url='https://t.me/SCIENCE_HINDI_QUIZ')
                         ],[
                             InlineKeyboardButton("Hᴇʟᴘ ⚙️", callback_data='features'),
                             InlineKeyboardButton('Aʙᴏᴜᴛ 💌', callback_data=f'about')
@@ -281,8 +281,8 @@ async def start(client:Client, message):
         buttons = [[
                             InlineKeyboardButton('☆ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ☆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
                         ],[
-                            InlineKeyboardButton("TESTING ✅", url='https://t.me/@ll_Alexa_Owner_ll'),
-                            InlineKeyboardButton('QUIZ 🔥', url='https://t.me/SCIENCE_HINDI_QUIZ')
+                            InlineKeyboardButton("👻 тєѕтιηg..✅", url='https://t.me/@ll_Alexa_Owner_ll'),
+                            InlineKeyboardButton('🔮 🆀υιzι 🔥', url='https://t.me/SCIENCE_HINDI_QUIZ')
                         ],[
                             InlineKeyboardButton("Hᴇʟᴘ ⚙️", callback_data='features'),
                             InlineKeyboardButton('Aʙᴏᴜᴛ 💌', callback_data=f'about')
